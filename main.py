@@ -1,12 +1,12 @@
 from random import randint
 
-def Gerador():
+def gerar():
 
     gerador = randint(1, 1000)
     return gerador
 
 
-aleatorio = Gerador()
+aleatorio = gerar()
 
 print(aleatorio)
 
