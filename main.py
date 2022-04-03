@@ -8,7 +8,7 @@ def gerar():
 
 aleatorio = gerar()
 
-print(aleatorio)
+# print(aleatorio) <- Ver valor. 
 
 valor = int(input("Digite seu Chute: "))
 digito = 1
